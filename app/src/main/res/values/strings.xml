@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Стратонавт</string>
+    <string name="blActivityName">Подключение</string>
+    <string name="infoActivityName">Общая информация</string>
+    <string name="terminalActivityName">Терминал</string>
+
+    <string name="blOff">Bluetooth отключен</string>
+    <string name="blOn">Bluetooth включен</string>
+    <string name="disconnected">Отключено</string>
+    <string name="connectingTo">Подключение к\u0020</string>
+    <string name="connectedTo">Подключено к\u0020</string>
+    <string name="connectionFailed">Не удалось подключиться к устройству. Повторить?</string>
+
+    <string name="status">Состояние:\u0020</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="showPairedDevices">Связанные устройства:</string>
+    <string name="showPairedDevices1">Связанные устройства</string>
+    <string name="showDiscoveredDevices">Обнаруженные устройства:</string>
+    <string name="startDiscovery">Поиск устройств</string>
+    <string name="stopDiscovery">Остановить поиск</string>
+    <string name="discoveryFinished">Поиск завершен</string>
+    <string name="noData">Не определено</string>
+
+    <string name="cancel">Отмена</string>
+    <string name="ok">Ок</string>
+
+</resources>

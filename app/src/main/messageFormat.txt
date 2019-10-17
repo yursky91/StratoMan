@@ -1,0 +1,65 @@
+Relay 1 Disabled.
+Relay 2 Disabled.
+Relay 3 Enabled.
+Relay 4 Disabled.
+Relay 5 Disabled.
+Relay 6 Disabled.
+Baro: initialization started.
+Baro: resetting device...
+Baro: device has been resetted.
+Baro: reading ROM...
+Baro: ROM has been read.
+Baro: reading initial values...
+Baro: initial values have been read.
+Baro: initialization finished.
+DS: initialization started.
+DS: resetting all devices...
+DS: searching for devices...
+DS: a device has been found.
+DS: a device has been found.
+DS: a device has been found.
+DS: a device has been found.
+DS: a device has been found.
+DS: forcing first conversion...
+DS: first conversion has been forced.
+DS: reading initial values...
+DS: initial values have been read.
+DS: initialization finished.
+Initializing sensors...	Done.
+Moving average filter will be used for staging.
+~ NearSpace.Ru Flight Management Unit v1,92 ~ READY
+N:1;T:0m4s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.67;Baro.Alt:131;Baro.Temp:28.58;DS.Temp:[e5]=27.19,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.56;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:2;T:0m5s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.65;Baro.Alt:131;Baro.Temp:28.60;DS.Temp:[e5]=26.94,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:3;T:0m6s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.58;Baro.Alt:131;Baro.Temp:28.61;DS.Temp:[e5]=26.94,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:4;T:0m7s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.67;Baro.Alt:131;Baro.Temp:28.63;DS.Temp:[e5]=26.94,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:5;T:0m8s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.70;Baro.Alt:130;Baro.Temp:28.64;DS.Temp:[e5]=26.94,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:6;T:0m9s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.68;Baro.Alt:130;Baro.Temp:28.65;DS.Temp:[e5]=26.94,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:7;T:0m10s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.66;Baro.Alt:131;Baro.Temp:28.67;DS.Temp:[e5]=26.94,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:8;T:0m11s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.64;Baro.Alt:131;Baro.Temp:28.67;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.69,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:9;T:0m12s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.69;Baro.Alt:130;Baro.Temp:28.69;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.69,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:10;T:0m13s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.70;Baro.Alt:130;Baro.Temp:28.70;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:11;T:0m14s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.66;Baro.Alt:131;Baro.Temp:28.71;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:12;T:0m15s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.71;Baro.Alt:130;Baro.Temp:28.73;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.69,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:13;T:0m16s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.69;Baro.Alt:130;Baro.Temp:28.74;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:14;T:0m17s;MP.Stage:0;MP.Alt:0;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.67;Baro.Alt:131;Baro.Temp:28.75;DS.Temp:[e5]=27.00,[02]=25.56,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:15;T:0m18s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.62;Baro.Alt:131;Baro.Temp:28.77;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:16;T:0m19s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.70;Baro.Alt:130;Baro.Temp:28.78;DS.Temp:[e5]=27.00,[02]=25.50,[fb]=30.88,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:17;T:0m20s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.67;Baro.Alt:131;Baro.Temp:28.79;DS.Temp:[e5]=27.06,[02]=25.56,[fb]=30.94,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:18;T:0m21s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.67;Baro.Alt:131;Baro.Temp:28.80;DS.Temp:[e5]=27.06,[02]=25.56,[fb]=30.94,[7b]=31.63,[7e]=35.63;Volt:5.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:19;T:0m22s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.63;Baro.Alt:131;Baro.Temp:28.81;DS.Temp:[e5]=27.06,[02]=25.56,[fb]=30.94,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:20;T:0m23s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.68;Baro.Alt:130;Baro.Temp:28.82;DS.Temp:[e5]=27.06,[02]=25.56,[fb]=30.94,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:21;T:0m24s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.72;Baro.Alt:130;Baro.Temp:28.84;DS.Temp:[e5]=27.06,[02]=25.56,[fb]=30.94,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:22;T:0m25s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.68;Baro.Alt:130;Baro.Temp:28.85;DS.Temp:[e5]=27.06,[02]=25.56,[fb]=30.94,[7b]=31.63,[7e]=35.63;Volt:5.16,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+N:23;T:0m26s;MP.Stage:0;MP.Alt:130;MP.VSpeed:0.0;MP.AvgVSpeed:0.0;Baro.Press:997.63;Baro.Alt:131;Baro.Temp:28.86;DS.Temp:[e5]=27.06,[02]=25.50,[fb]=30.94,[7b]=31.63,[7e]=35.63;Volt:5.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00;Relays:0,0,1,0,0,0;
+
+
+[e5]=28.38 - температура криуса
+[02]=26.06 - температура баллона, именно по этой температуре работает термостат
+[44]=25.44 - температура газа, выходящего из баллона
+[fb]=26.56 - температура внешняя сторона плеча
+[7b]=26.75 - температура грудь
+[7e]=27.06 - температура подмышка
+
+Volt:5.19,0.00,0.00,0.00,0.00,0.00,0.00,0.00 - напряжение на АЦП
+первое - питание
+Скорее всего второе, третье и четвертое будет давлениями в баллоне, в скафандре и парциальным давлением кислорода

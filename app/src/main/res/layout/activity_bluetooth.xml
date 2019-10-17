@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/status"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bluetoothStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:focusable="auto"
+            android:singleLine="true"
+            android:text="@string/disconnected"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnPaired"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/showPairedDevices1" />
+
+    <Button
+        android:id="@+id/btnDiscover"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/startDiscovery" />
+
+    <TextView
+        android:id="@+id/devType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/colorPrimary"
+        android:paddingStart="15dp"
+        android:paddingEnd="0dp"
+        android:paddingBottom="2dp"
+        android:text="@string/showPairedDevices"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <ListView
+        android:id="@+id/devicesListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:choiceMode="singleChoice"
+        android:requiresFadingEdge="vertical" >
+
+    </ListView>
+
+</LinearLayout>
